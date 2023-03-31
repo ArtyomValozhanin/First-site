@@ -5,3 +5,5 @@
 - push repository on GickHub
 - ubdate README.md on GB
 - add commit and save README 
+- add teg < script > in it added function (say_hi) then do commit
+- 
